@@ -31,20 +31,33 @@
            <a class="brand" href="#">Xerial</a>
            <ul class="nav">
              <li class="active"><a href="#">Home</a></li>
-             <li><a href="#about">About</a></li>
+             <li><a href="#software">Software</a></li>
+             <li><a href="#silk">Silk</a></li>
+             <li><a href="#blog">Blog</a></li>
+             <li class="dropdown">
+	       <a href="#" class="dropdown-toggle">About</a>
+               <ul class="dropdown-menu">
+		 <li><a href="#">Publication</a></li>
+		 <li class="divider"></li>
+		 <li><a href="#">People</a></li>
+	       </ul>
+ 
+	     </li>
              <li><a href="#contact">Contact</a></li>
            </ul>
+
+
          </div>
        </div>
     </div>
     
     <header class="jumbotron masthead" id="overview">
       <div class="inner">
-	<div class="container">
+	<div class="container"> 
           <h1>Database for Scientists</h1>
-          <p class="lead">Xerial is a next-generation DBMS for big-data sciences. Storing data is not enough. Query, visualize and share your data with Xerial.</p>
+          <p class="lead">Xerial: A Next-Generation DBMS for Big-Data Sciences</p>
 <!--          <p><a class="btn primary large">Learn more &raquo;</a></p>-->
-	</div>
+	</div> 
       </div> 
     </header>
 
@@ -54,27 +67,41 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="span-one-third">
-          <h2>Genome Sciences</h2>
-          <p>Xerial is Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+          <h2>Serialize Everything</h2>
+          <p><strong>Xerial</strong>, pronounced as <i>ex-serial</i>, is a universal serialization engine. You can create databases from various data souces, including XML, JSON, CSV, tab-separated data, SQL databases, etc. Mapping from the other data formats is supported using <a href="lens.html">Lens</a>. For developers, Xerial can be used to serialize/deserialize data objects. 
+	    </p>
           <p><a class="btn" href="#">View details &raquo;</a></p>
         </div>
         <div class="span-one-third">
-          <h2>Heading</h2>
-           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <h2>Silk Format</h2>
+           <p>Silk is a data format used in Xerial for describing data in-between relation and trees. 
           <p><a class="btn" href="#">View details &raquo;</a></p>
        </div>
         <div class="span-one-third">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <h2>Share</h2>
+          <p>
+
+Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
           <p><a class="btn" href="#">View details &raquo;</a></p>
         </div>
       </div>
+
 
       <footer>
         <p>&copy; Taro L. Saito 2012</p>
       </footer>
 
     </div> <!-- /container -->
+
+    <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script src="http://autobahn.tablesorter.com/jquery.tablesorter.min.js"></script>
+    <script src="style/js/google-code-prettify/prettify.js"></script>
+    <script>$(function () { prettyPrint() })</script>
+    <script src="style/js/bootstrap-dropdown.js"></script>
+    <script src="style/js/bootstrap-dropdown-app.js"></script>
+    <script src="style/js/bootstrap-twipsy.js"></script>
+    <script src="style/js/bootstrap-scrollspy.js"></script>
+    <script src="style/js/application.js"></script>
 
   </body>
 </html>
