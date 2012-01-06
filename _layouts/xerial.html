@@ -12,15 +12,15 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="style/css/bootstrap.css" rel="stylesheet">
-    <link href="style/css/docs.css" rel="stylesheet">
-    <link href="style/js/google-code-prettify/prettify.css" rel="stylesheet">
+    <link href="/style/css/bootstrap.css" rel="stylesheet">
+    <link href="/style/css/docs.css" rel="stylesheet">
+    <link href="/style/js/google-code-prettify/prettify.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="style/ico/favicon.ico">
-    <link rel="apple-touch-icon" href="style/ico/bootstrap-apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="style/ico/bootstrap-apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="style/ico/bootstrap-apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="/style/ico/favicon.ico">
+    <link rel="apple-touch-icon" href="/style/ico/bootstrap-apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/style/ico/bootstrap-apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/style/ico/bootstrap-apple-touch-icon-114x114.png">
   </head>
 
 <!-- 
@@ -38,16 +38,16 @@
          <div class="container">
            <a class="brand" href="#">Xerial</a>
            <ul class="nav">
-             <li><a href="./">Home</a></li>
-             <li><a href="software.html">Software</a></li>
-             <li><a href="#silk">Silk</a></li>
-             <li><a href="#blog">Blog</a></li>
+             <li><a href="/">Home</a></li>
+             <li><a href="/software.html">Software</a></li>
+             <li><a href="/silk/">Silk</a></li>
+             <li><a href="/blog/">Blog</a></li>
              <li class="dropdown">
 	       <a href="#" class="dropdown-toggle">About</a>
                <ul class="dropdown-menu">
-		 <li><a href="#">Publication</a></li>
+		 <li><a href="/publication.html">Publication</a></li>
 		 <li class="divider"></li>
-		 <li><a href="#">People</a></li>
+		 <li><a href="/people.html">People</a></li>
 	       </ul>
  
 	     </li>
@@ -78,13 +78,14 @@
 
     <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
     <script src="http://autobahn.tablesorter.com/jquery.tablesorter.min.js"></script>
-    <script src="style/js/google-code-prettify/prettify.js"></script>
+    <script src="/style/js/google-code-prettify/prettify.js"></script>
     <script>$(function () { prettyPrint() })</script>
-    <script src="style/js/bootstrap-dropdown.js"></script>
-    <script src="style/js/bootstrap-dropdown-app.js"></script>
-    <script src="style/js/bootstrap-twipsy.js"></script>
-    <script src="style/js/bootstrap-scrollspy.js"></script>
-    <script src="style/js/application.js"></script>
-
+    <script src="/style/js/bootstrap-dropdown.js"></script>
+    <script src="/style/js/bootstrap-dropdown-app.js"></script>
+    <script src="/style/js/bootstrap-twipsy.js"></script>
+    <script src="/style/js/bootstrap-scrollspy.js"></script>
+    <script src="/style/js/application.js"></script>
+    
+    {% include production/analytics.html %}
   </body>
 </html>
