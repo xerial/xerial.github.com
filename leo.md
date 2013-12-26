@@ -1,15 +1,12 @@
 ---
-layout: xerial
-title: Taro L. Saito
+layout: page
+title: Taro L. Saito, Ph.D.
 ---
-
-Taro L. Saito, PhD 
-----
 ![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) English/[Japanese](/leoj)
 
 Database Researcher. 
 
-* Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (Bioinformatics & Database Systems), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
+Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (Bioinformatics), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 
 * Twitter <https://twitter.com/taroleo>
 

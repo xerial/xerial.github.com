@@ -1,11 +1,11 @@
 ---
-layout: xerial
+layout: page
 title: Publications
 ---
 
 [Taro L. Saito](/leo), [DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
 
-## Refereed Conference/Journal Papers
+### Refereed Conference/Journal Papers
 
 - [Taro L. Saito](/leo), Shin-ichi Hashimoto, Sam Guoping Gu, J. Jason Morton, Michael Stadler, Thomas Blumenthal, Andrew Fire(\*), and Shinichi Morishita(\*). **The Transcription Start Site Landscape of C. elegans**. [*Genome Research 2013 Aug;23(8):1348-61*](http://genome.cshlp.org/content/23/8/1348.long). \*: joint corresponding authors 
 

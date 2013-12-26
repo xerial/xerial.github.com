@@ -1,7 +1,5 @@
 ---
 layout: default
 ---
-
-<h1 class="title">{% if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h1>
-
-{{ content }}
+{% include JB/setup %}
+{% include themes/twitter/page.html %}

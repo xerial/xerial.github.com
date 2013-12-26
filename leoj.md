@@ -1,10 +1,7 @@
 ---
-layout: xerial
-title: Taro L. Saito
+layout: page
+title: 斉藤 太郎 (Taro L. Saito, PhD)
 ---
-
-斉藤 太郎 (Taro L. Saito, PhD)
-----
 ![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) [English](/leo)/Japanese
 
 データベースの研究者

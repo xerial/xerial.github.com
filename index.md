@@ -1,7 +1,8 @@
 ---
-layout: xerial
+layout: page
 title: xerial.org
 ---
 
 * [Taro L. Saito](/leo)
+
 
