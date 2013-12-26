@@ -3,13 +3,15 @@ layout: xerial
 title: Taro L. Saito
 ---
 
-斉藤　太郎 (Taro L. Saito, PhD)
+斉藤 太郎 (Taro L. Saito, PhD)
 ----
 ![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) [English](/leo)/Japanese
 
 データベースの研究者
 
-東京大学大学院 新領域創成科学研究科 情報生命科学専攻 森下研究室 (バイオインフォマティクス・データベースシステム) 助教 (Assistant Professor)
+東京大学大学院 新領域創成科学研究科  
+情報生命科学専攻 森下研究室 (バイオインフォマティクス・データベースシステム)   
+助教 (Assistant Professor)   
 
 * Twitter <https://twitter.com/taroleo>
 
@@ -24,8 +26,7 @@ title: Taro L. Saito
 
 ## 住所・電話
 
-277-8562 千葉県柏市柏の葉 東京大学柏キャンパス 総合研究棟3階370号室
-
+277-8562 千葉県柏市柏の葉 東京大学柏キャンパス 総合研究棟3階370号室  
 電話番号：047-136-4065
 
 ## 紹介記事
@@ -68,4 +69,6 @@ title: Taro L. Saito
 - Java　(開発効率が一番いい。Web系、DBなどなんでも。速度的に越えられない一線がくるまでは使い続けたい言語。コードを書けば書くほど楽になっていくのが楽しい）
 - Perl (昔はWebサーバーをperlで書いていたけれど、Javaになってから使わなくなりました)
 - Ruby (一括処理スクリプトを書くときはもっぱらRuby）
-- Scala (2010年頃からのメイン言語. 今は完全にJava->Scalaへ移行してしまっています)
+- Scala (2010年頃からのメイン言語. 今は完全にJavaからScalaへ移行してしまっています)
+ - Scala Cookbook を書いています <http://xerial.org/scala-cookbook>
+
