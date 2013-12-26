@@ -7,7 +7,7 @@ title: Publications
 
 ## Refereed Conference/Journal Papers
 
-- [Taro L. Saito](/leo), Shin-ichi Hashimoto, Sam Guoping Gu, J. Jason Morton, Michael Stadler, Thomas Blumenthal, Andrew Fire(\*), and Shinichi Morishita(\*). The Transcription Start Site Landscape of C. elegans. Genome Research 2013 Aug;23(8):1348-61. \*: joint corresponding authors 
+- [Taro L. Saito](/leo), Shin-ichi Hashimoto, Sam Guoping Gu, J. Jason Morton, Michael Stadler, Thomas Blumenthal, Andrew Fire(\*), and Shinichi Morishita(\*). **The Transcription Start Site Landscape of C. elegans**. [Genome Research 2013 Aug;23(8):1348-61](http://genome.cshlp.org/content/23/8/1348.long). \*: joint corresponding authors 
 
   - WormTSS web site: <http://wormtss.utgenome.org/>
 
@@ -21,17 +21,17 @@ title: Publications
 
 - Accelerating Path-free XML Queries in RDBMS. Hongyan Wu, [Taro L. Saito](/leo), Shinichi Morishita. IPSJ Online Transactions. Vol. 3, pp.206-217 (2010)
 
-- UTGB Toolkit for Personalized Genome Browsers. [Taro L. Saito](/leo), Jun Yoshimura, Shin Sasaki, Budrul Ahsan, Atsushi Sasaki, Reginaldo Kuroshu and Shinichi Morishita. Bioinformatics (in press) advance online version (June 2009). 
+- UTGB Toolkit for Personalized Genome Browsers. [Taro L. Saito](/leo), Jun Yoshimura, Shin Sasaki, Budrul Ahsan, Atsushi Sasaki, Reginaldo Kuroshu and Shinichi Morishita. [Bioinformatics (2009) 25 (15): 1856-1861](http://bioinformatics.oxfordjournals.org/content/25/15/1856.full). doi: 10.1093/bioinformatics/btp350 
 
  - UTGB Web Site: <http://utgenome.org/>
 
 - Chromatin-Associated Periodicity in Genetic Variation Downstream of Transcriptional Start Sites. Shin Sasaki, Cecilia C. Mello, Atsuko Shimada, Yoichiro Nakatani, Shin-ichi Hashimoto, Masako Ogawa, Kouji Matsushima, Sam Guoping Gu, Masahiro Kasahara, Budrul Ahsan, Atsushi Sasaki, [Taro L. Saito](/leo), Yutaka Suzuki, Sumio Sugano, Yuji Kohara, Hiroyuki Takeda, Andrew Fire, Shinichi Morishita. Science, (January, 2009)
 
-- MachiBase: A Drosophila Melanogaster 5'-end mRNA Transcription Database. Budrul Ahsan (\*), [Taro L. Saito](/leo) (\*), Shin-ichi Hashimoto, Keigo Muramatsu, Manabu Tsuda, Atushi Sasaki, Kouji Matsushima, Toshiro Aigaki, Shinichi Morishita. Nucleic Acids Research (Database Issue) 2009. <http://nar.oxfordjournals.org/cgi/content/full/gkn694v1> (\* joint first authors)
+- MachiBase: A Drosophila Melanogaster 5'-end mRNA Transcription Database. Budrul Ahsan (\*), [Taro L. Saito](/leo) (\*), Shin-ichi Hashimoto, Keigo Muramatsu, Manabu Tsuda, Atushi Sasaki, Kouji Matsushima, Toshiro Aigaki, Shinichi Morishita. [Nucleic Acids Research (Database Issue) 2009](http://nar.oxfordjournals.org/cgi/content/full/gkn694v1). (\* joint first authors)
 
   - MachiBase Web Site <http://machibase.gi.k.u-tokyo.ac.jp>
 
-- Relational-Style XML Query. [Taro L. Saito](/leo), Shinichi Morishita. In proc. of the ACM SIGMOD, International Conference on Management of Data (SIGMOD 2008), Vancouver, June 2008 (PDF, ACM Portal http://doi.acm.org/10.1145/1376616.1376650) (Presentation Slides)
+- Relational-Style XML Query. [Taro L. Saito](/leo), Shinichi Morishita. In proc. of the ACM SIGMOD, International Conference on Management of Data (SIGMOD 2008), Vancouver, June 2008 (PDF, ACM Portal <http://doi.acm.org/10.1145/1376616.1376650>) (Presentation Slides)
 
 - UTGB/Medaka: Genomic Resource Database for Medaka Biology. Budrul Ahsan, Daisuke Kobayashi, Tomoyuki Yamada, Masahiro Kasahara, Shin Sasaki, [Taro L. Saito](/leo), Yukinobu Nagayasu, Koichiro Doi, Yoichiro Nakatani, Wei Qu, Tomoko Jindo, Atsuko Shimada, Kiyoshi Naruse, Atsushi Toyoda, Yoko Kuroki, Asao Fujiyama, Takashi Sasaki, Atsushi Shimizu, Shuichi Asakawa, Nobuyoshi Shimizu, Shin-ichi Hashimoto, Jun Yang, Yongjun Lee, Kouji Matsushima, Sumio Sugano, Mitsuru Sakaizumi, Takanori Narita, Kazuko Ohishi, Shinobu Haga, Fumiko Ohta, Hisayo Nomoto, Keiko Nogata, Tomomi Morishita, Tomoko Endo, Tadasu Shin-I, Hiroyuki Takeda, Yuji Kohara, and Shinichi Morishita. Nucleic Acids Research, published on October 11, 2007. doi:10.1093/nar/gkm765
 

@@ -38,7 +38,7 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * **April 2007 - (current)** : Assistant Professor (Department of Computational Biology, Graduate School of Frontier Sciences, University of Tokyo, Japan)
 
 ## Publications 
-* see [Pulblications]({{SITE_URL}}/publication.html)
+* see [Pulblications]({{SITE_URL}}/publication)
 * [My DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
 
 # Research Interests 
