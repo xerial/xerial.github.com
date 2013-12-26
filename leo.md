@@ -2,11 +2,14 @@
 layout: xerial
 title: Taro L. Saito
 ---
-English/[Japanese](leo)
 
-Taro L. Saito, PhD (leo) 
----
-![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png)
+Taro L. Saito, PhD 
+----
+![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) English/[Japanese](/leoj)
+
+Database Researcher. 
+
+* Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (Bioinformatics & Database Systems), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 
 * Twitter <https://twitter.com/taroleo>
 
@@ -18,12 +21,6 @@ Taro L. Saito, PhD (leo)
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
 * Xerial Blog: <http://voice.xerial.org>
 
-## Affiliation
-
-Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (Bioinformatics & Database Systems), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
-
- * Formerly, I was a member of [Hosoya Laboratory](http://arbre.is.s.u-tokyo.ac.jp/) (Programming Language and Type Theory).
- 
 ## Address & Phone 
 
 * 5-1-5 Kashiwanoha, Kashiwa City Chiba Pref. 277-8562, JAPAN
@@ -34,7 +31,7 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * **March 2002** : Bachelor of Science (Department of Information Science, Faculty of Science, University of Tokyo, Japan)
 * **March 2004** : Master of Information Science and Technology (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)
 * **April 2005 - March 2007** : Research fellow of the Japan Society for the Promotion of Science (JSPS)
-* **March 2007** : Ph.D. (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan) 
+* **March 2007** : Ph.D. (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)   
 * **April 2007 - (current)** : Assistant Professor (Department of Computational Biology, Graduate School of Frontier Sciences, University of Tokyo, Japan)
 
 ## Publications 
@@ -79,5 +76,12 @@ I have been developing several utilities, mainly in Scala, Java and C++:
   * Java Database Connection (JDBC) Driver for SQLite
   * [SQLite](http://sqlite.org) is a ready-to-use relational-database engine that can be run on a single file (or multiple files), which does not require any installation process.
 
-* **[UTGB Toolkit](http://utgenome.org) (The University of Tokyo Genome Browser Toolkit)** * [UTGB](http://utgenome.org) is a bundle of Java libraries for developing web-based database servers. This includes portable Tomcat server, SQLite database engine (or connection to other DBMSs through JDBC), AJAX-style graphical user interface for data browsing, which is implemented using Google Web Toolkit (GWT). 
+
+- [**UTGB Toolkit**](http://utgenome.org) (The University of Tokyo Genome Browser Toolkit)
+
+   - UTGB is a bundle of Java libraries for developing web-based database servers. This includes portable Tomcat server, SQLite database engine (or connection to other DBMSs through JDBC), AJAX-style graphical user interface for data browsing, which is implemented using Google Web Toolkit (GWT). 
+
+-
  
+
+

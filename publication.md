@@ -3,7 +3,7 @@ layout: xerial
 title: Publications
 ---
 
-[Taro L. Saito](leo), [DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
+[Taro L. Saito](/leo), [DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
 
 ## Refereed Conference/Journal Papers
 
@@ -41,7 +41,7 @@ title: Publications
 
 - **Amoeba Join: Overcoming Structural Fluctuations of XML Data**. [Taro L. Saito](/leo), Shinichi Morishita. In proc. of the Ninth International Workshop on the Web and Databases (*WebDB 2006*). (PDF)
 
-- **Evaluation of Image Processing Programs for Accurate Measurement of Budding and Fission Yeast Morphology**. Genjiro Suzuki, Hiroshi Sawai, Miwaka Ohtani, Satoru Nogami, Fumi Sano-Kumagai, Ayaka Saka, Masashi Yukawa, [Taro L. Saito](/leo), Jun Sese, Dai Hirata, Shinichi Morishita and Yoshikazu Ohya. *Current Genetics*. 2006 Jan 6
+- **Evaluation of Image Processing Programs for Accurate Measurement of Budding and Fission Yeast Morphology**. Genjiro Suzuki, Hiroshi Sawai, Miwaka Ohtani, Satoru Nogami, Fumi Sano-Kumagai, Ayaka Saka, Masashi Yukawa, [Taro L. Saito](/leo), Jun Sese, Dai Hirata, Shinichi Morishita and Yoshikazu Ohya. [*Current Genetics. 2006](http://dx.doi.org/10.1007/s00294-005-0051-0) Jan 6
 
 * **High-Dimensional and Large-Scale Phenotyping of Yeast Mutants**. Yoshikazu Ohya, Jun Sese(\*), Masashi Yukawa(\*), Fumi Sano, Yoichiro Nakatani, [Taro L. Saito](/leo), Ayaka Saka, Tomoyuki Fukuda, Satoru Ishihara, Satomi Oka, Genjiro Suzuki, Machika Watanabe, Aiko Hirata, Miwaka Ohtani, Hiroshi Sawai, Nicolas Fraysse, Jean-Paul Latge, Jean M. Francois, Markus Aebi, Seiji Tanaka, Sachiko Muramatsu, Hiroyuki Araki, Kintake Sonoike, Satoru Nogami, and Shinichi Morishita. [*PNAS published December 19, 2005*, 10.1073/pnas.0509436102](http://www.pnas.org/content/102/52/19015.abstract) (Genetics) (\* equally contributed authors)
 
