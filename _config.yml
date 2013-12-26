@@ -1,6 +1,8 @@
-permalink: /:categories/:title.html
+#permalink: /:categories/:title.html
+permalink: pretty
 auto: true
 pygments: true
+markdown: maruku
 var:
   archive_path: /archive.html
   categories_path : /categories.html
