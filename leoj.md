@@ -10,8 +10,7 @@ title: Taro L. Saito
 データベースの研究者
 
 東京大学大学院 新領域創成科学研究科  
-情報生命科学専攻 森下研究室 (バイオインフォマティクス・データベースシステム)   
-助教 (Assistant Professor)   
+情報生命科学専攻 森下研究室 (バイオインフォマティクス) 助教 (Assistant Professor)   
 
 * Twitter <https://twitter.com/taroleo>
 
