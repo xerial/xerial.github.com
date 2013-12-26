@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }} - Xerial</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="Taro L. Saito">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -33,45 +33,14 @@
 
   <body>
 
-    <div class="topbar">
-       <div class="fill">
-         <div class="container">
-           <a class="brand" href="#">Xerial</a>
-           <ul class="nav">
-             <li><a href="/">Home</a></li>
-             <li><a href="/software.html">Software</a></li>
-             <li><a href="/silk/">Silk</a></li>
-             <li><a href="/blog/">Blog</a></li>
-             <li class="dropdown">
-	       <a href="#" class="dropdown-toggle">About</a>
-               <ul class="dropdown-menu">
-		 <li><a href="/publication.html">Publication</a></li>
-		 <li class="divider"></li>
-		 <li><a href="/people.html">People</a></li>
-	       </ul>
- 
-	     </li>
-             <li><a href="#contact">Contact</a></li>
-           </ul>
-         </div>
-       </div>
-    </div>
-
-    <header class="jumbotron masthead" id="overview">
-      <div class="inner">
-	<div class="container"> 
-          <h1>{{ page.title }}</h1>
-	</div> 
-      </div> 
-    </header>
-
     <div class="container">
       <div class="row">
 	{{ content }}
       </div>
       
+    <hr/>
       <footer>
-        <p>&copy; Taro L. Saito 2012</p>
+        <p>&copy; Taro L. Saito 2014</p>
       </footer>
       
     </div> <!-- /container -->
