@@ -1,5 +1,5 @@
 ---
-layout: xerial
+layout: page
 title: Software
 category : software
 ---
