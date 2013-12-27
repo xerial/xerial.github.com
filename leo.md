@@ -17,7 +17,7 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * Twitter [@taroleo](https://twitter.com/taroleo)
 
 ### Programming 
-* Languages: Scala (current favorite), Java, C/C++, Ruby, Perl, R, Scheme, OCaml, Z80, etc.
+* Language Skills: Scala (current favorite), Java, C/C++, Ruby, Perl, R, Scheme, OCaml, Z80, etc.
 * [Software]({{BASE_PATH}}/software)
 * GitHub <https://github.com/xerial>
 * BitBucket <https://bitbucket.org/xerial>
@@ -26,10 +26,14 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * see [Pulblications]({{SITE_URL}}/publication)
 * [My DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
 
+### Articles
+* [Scala Cookbook](http://xerial.org/scala-cookbook) <http://xerial.org/scala-cookbook> (in Japanese)
+  * Tutorial of the Scala programming language
 
 ### Blogs
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
 * Xerial Blog: <http://voice.xerial.org>
+
 
  
 ## Curriculum Vitae (CV) 
