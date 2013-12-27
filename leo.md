@@ -36,7 +36,7 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 
 
  
-## Curriculum Vitae (CV) 
+### Curriculum Vitae (CV) 
 
 * **March 2002** : Bachelor of Science (Department of Information Science, Faculty of Science, University of Tokyo, Japan)
 * **March 2004** : Master of Information Science and Technology (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)
@@ -45,9 +45,9 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * **April 2007 - (current)** : Assistant Professor (Department of Computational Biology, Graduate School of Frontier Sciences, University of Tokyo, Japan)
 
 
-## Research Interests 
+### Research Interests 
 
-### Database Management Systems 
+#### Database Management Systems 
 * Cluster computing platform for Genome Sciences
   * [Silk](http://xerial.org/silk)
   * Query optimization & scheduling
@@ -57,7 +57,7 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * Transaction processing
 
 
-### Genome Sciences 
+#### Genome Sciences 
 * See also [Projects in Genome Sciences]({{BASE_PATH}}/genome-science)
 * Biological data management
 * Personal genome analysis
