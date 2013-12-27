@@ -1,14 +1,7 @@
-{% include page_header.html %}
- 
 <div class="row">
   <div class="span8">
     {{ content }}
     {% unless page.tags == empty %}
-    <h4>Tags</h4>
-    <ul class="tag_box">
-      {% assign tags_list = page.tags %}
-      {% include JB/tags_list %}
-    </ul>
     {% endunless %}  
     <div class="pagination" style="text-align:center;">
       <ul>
@@ -25,8 +18,6 @@
 	  {% endif %}
       </ul>
     </div>
-
-    {% include JB/comments %}
   </div>
 
 </div>

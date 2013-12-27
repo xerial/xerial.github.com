@@ -3,6 +3,7 @@ layout: page
 title: xerial.org
 ---
 
-* [Taro L. Saito](/leo)
+### Recent Updates
 
+{% include recent_posts.html %}
 
