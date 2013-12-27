@@ -11,6 +11,7 @@ title: Publications
 
   - WormTSS web site: <http://wormtss.utgenome.org/>
 
+
 - Ishikawa T, Okada T, Ishikawa-Fujiwara T, Todo T, Kamei Y, Shigenobu S, Tanaka M, [Saito TL,](/leo) Yoshimura J, Morishita S, Toyoda A, Sakaki Y, Taniguchi Y, Takeda S, Mori K. **ATF6&#945;/&#946;-mediated adjustment of ER chaperone levels is essential for development of the notochord in medaka fish**. [*Mol Biol Cell. 24(9):1387-1395*](http://www.molbiolcell.org/content/24/9/1387.long). (2013)
 
 - Wei Qu, Shin-ichi Hashimoto, Atsuko Shimada, Yoichiro Nakatani, Kazuki Ichikawa, [Taro L Saito](/leo), Katsumi Ogoshi, Kouji Matsushima, Yutaka Suzuki, Sumio Sugano, Hiroyuki Takeda, Shinichi Morishita. **Genome-wide genetic variations are highly correlated with proximal DNA methylation patterns**. [*Genome Research 22:1419-1425*](http://genome.cshlp.org/content/22/8/1419.long) (2012)
@@ -25,17 +26,19 @@ title: Publications
 
   - UTGB Web Site: <http://utgenome.org/>
 
+
 - **Chromatin-Associated Periodicity in Genetic Variation Downstream of Transcriptional Start Sites**. Shin Sasaki, Cecilia C. Mello, Atsuko Shimada, Yoichiro Nakatani, Shin-ichi Hashimoto, Masako Ogawa, Kouji Matsushima, Sam Guoping Gu, Masahiro Kasahara, Budrul Ahsan, Atsushi Sasaki, [Taro L. Saito](/leo), Yutaka Suzuki, Sumio Sugano, Yuji Kohara, Hiroyuki Takeda, Andrew Fire, Shinichi Morishita. [*Science 16, January 2009:401-404*](http://www.sciencemag.org/cgi/content/abstract/323/5912/401).
 
 - **MachiBase: A Drosophila Melanogaster 5'-end mRNA Transcription Database**. Budrul Ahsan (\*), [Taro L. Saito](/leo) (\*), Shin-ichi Hashimoto, Keigo Muramatsu, Manabu Tsuda, Atushi Sasaki, Kouji Matsushima, Toshiro Aigaki, Shinichi Morishita. [*Nucleic Acids Research (Database Issue) 2009*](http://nar.oxfordjournals.org/cgi/content/full/gkn694v1). (\* joint first authors)
 
   - MachiBase Web Site <http://machibase.gi.k.u-tokyo.ac.jp>
 
-- **Relational-Style XML Query**. [Taro L. Saito](/leo), Shinichi Morishita. [*SIGMOD 2008*](http://doi.acm.org/10.1145/1376616.1376650), Vancouver, June 2008. [PDF](/pub/paper/2008/leo08sigmod.pdf), [Presentation Slides](/pub/paper/2008/leo-sigmod2008-slides.pdf).
+- **Relational-Style XML Query**. [Taro L. Saito](/leo), Shinichi Morishita. [*SIGMOD 2008*](http://doi.acm.org/10.1145/1376616.1376650), Vancouver, June 2008. ([PDF](/pub/paper/2008/leo08sigmod.pdf)), ([Presentation Slides](/pub/paper/2008/leo-sigmod2008-slides.pdf)).
 
 - **UTGB/Medaka: Genomic Resource Database for Medaka Biology**. Budrul Ahsan, Daisuke Kobayashi, Tomoyuki Yamada, Masahiro Kasahara, Shin Sasaki, [Taro L. Saito](/leo), Yukinobu Nagayasu, Koichiro Doi, Yoichiro Nakatani, Wei Qu, Tomoko Jindo, Atsuko Shimada, Kiyoshi Naruse, Atsushi Toyoda, Yoko Kuroki, Asao Fujiyama, Takashi Sasaki, Atsushi Shimizu, Shuichi Asakawa, Nobuyoshi Shimizu, Shin-ichi Hashimoto, Jun Yang, Yongjun Lee, Kouji Matsushima, Sumio Sugano, Mitsuru Sakaizumi, Takanori Narita, Kazuko Ohishi, Shinobu Haga, Fumiko Ohta, Hisayo Nomoto, Keiko Nogata, Tomomi Morishita, Tomoko Endo, Tadasu Shin-I, Hiroyuki Takeda, Yuji Kohara, and Shinichi Morishita. [*Nucleic Acids Research, published on October 11, 2007*](http://nar.oxfordjournals.org/content/36/suppl_1/D747.full). doi:10.1093/nar/gkm765
 
   - UTGB Medaka Web Site: <http://utgenome.org/UTGBMedaka>
+
 
 - **Efficient Integration of Structure Indexes of XML**. [Taro L. Saito](/leo), Shinichi Morishita. The 12th International Conference on Database Systems for Advanced Applications (*DASFAA 2007*). ([PDF](/pub/paper/2006/leo07mdi.pdf))
 
@@ -50,6 +53,7 @@ title: Publications
 * **SCMD: Saccharomyces Cerevisiae Morphological Database**. [Taro L. Saito](/leo), Miwaka Ohtani, Hiroshi Sawai, Fumi Sano, Ayaka Saka, Daisuke Watanabe, Masashi Yukawa, Yoshikazu Ohya, and Shinichi Morishita. [*Nucleic Acids Research Vol. 32: D319-D322 (2004)*](http://nar.oupjournals.org/cgi/content/abstract/32/suppl_1/D319).
 
   * SCMD <http://scmd.gi.k.u-tokyo.ac.jp> is an web database server that provides millions of micrographs of yeast mutants. Each micrograph is processed by our image processing software, and various kinds of phenotype data are now available in SCMD. Its database server is implemented by using the technologies of Xerial.
+
 
 * **Xerial: An Update Tolerant and High Concurrent XML Database**. [Taro L. Saito](/leo), Shinichi Morishita. In Proceedings of *Fourth Data Mining Workshop 2004, JSSST. p. 13-20* ([PDF](/pub/paper/2004/DM_paper.pdf))
 
