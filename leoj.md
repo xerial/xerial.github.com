@@ -27,7 +27,7 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 
 ## 紹介記事
 
-2008年4月 NTTサイバー研の鬼塚さんからインタビュー（電子情報通信学会 ニュースレター）を受けました。
+2008年4月 NTTサイバー研の鬼塚さんとのインタビュー（電子情報通信学会 ニュースレター）記事。([PDF]({{BASE_PATH}}/pub/paper/2008/letter1.pdf))
 
 ## 履歴 (CV: Curriculum Vitae)
 
