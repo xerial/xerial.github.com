@@ -16,7 +16,7 @@ I remember some students struggled in writing scientific papers. I guess that is
 
 Jeffery D. Ullman also says in [his article](http://dl.acm.org/citation.cfm?id=1467247.1467260) in Communication in the ACM: writing more than 100 page PhD thesis is intimidating for students. So the general advice is to start writing for conference papers, which are usually around 8,000 words long. This is still a large volume, but are far less compared to 100 pages, which exceed 10,000 words. 
 
-If you do not start writing, it gives you a negative feeling that you are not doing well. The article by M.G. and H.K. gives us a good lesson; As you write, you can develop your thoughts. Writing isn't editing, reading journal articles for research nor referencing. Just keep putting new words on the page. After that you can improve the quality of the writings. The process continuing writing itself is necessary for improving the writing, that is, the quality of your outputs.
+If you do not start writing, it gives you a negative feeling that you are not doing well. The article by M.G. and H.K. gives us a good lesson on how to do the opposite; As you write, you can develop your thoughts. Writing isn't editing, reading journal articles for research nor referencing. Just keep putting new words on the page. After that you can improve the quality of the writings. The process continuing writing itself is necessary for improving the writing, that is, the quality of your outputs.
 
 
 
