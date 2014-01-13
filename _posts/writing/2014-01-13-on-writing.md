@@ -7,7 +7,7 @@ tags: [research]
 ---
 {% include JB/setup %}
 
-Maria Gardiner and Hugh Kearns wrote a good [article](http://www.nature.com/naturejobs/science/articles/10.1038/nj7354-129a) that says "Start writing before you feel ready". This reminds me how to write including blogs, technical documents and research papers. 
+Maria Gardiner and Hugh Kearns wrote a good [article](http://www.nature.com/naturejobs/science/articles/10.1038/nj7354-129a) that says "Start writing before you feel ready". This reminds me how to write blogs, technical documents and research papers. 
 
 The authors recommend writing 45-90 minutes for researchers trying to increase their publication output. I also agree with this idea. 
 Looking back my own experiences when I was a PhD student, I constantly used my morning time from 9 to 11 for writing. Thanks to the article, I remembered I really enjoyed that quiet time. I was a student and had no need to take classes since I already had collected credits that were sufficient for graduating the university. So every day I visited one of the my favorite cafe, opened my notebook, then started writing. No distraction by Internet, Twitter, Facebook etc. (Actually Twitter and Facebook were not yet existent at that time.) It made me easy to concentrate on writing, that was exactly, doing *research*. Writing helped me polish my research ideas, and clarified what should I do for materializing these ideas.
