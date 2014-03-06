@@ -4,10 +4,7 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 ---
 ![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) [English](/leo)/Japanese
 
-データベースの研究者
-
-東京大学大学院 新領域創成科学研究科  
-情報生命科学専攻 森下研究室 (バイオインフォマティクス) 助教 (Assistant Professor)   
+ソフトウェアエンジニア, [Treasure Data](http://www.treasuredata.com/)
 
 * Twitter <https://twitter.com/taroleo>
 
@@ -39,7 +36,8 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 - 2004年4月 : 東京大学大学院 情報理工学系研究科コンピュータ科学専攻 博士課程入学
 - 2005年4月 - 2007年3月 : 日本学術振興会特別研究員
 - 2007年3月 : 東京大学大学院 情報理工学系研究科コンピュータ科学専攻 博士課程修了。情報理工学博士(PhD)取得
-- 2007年4月 - 現在: 東京大学大学院 新領域創成科学研究科 情報生命科学専攻 助教
+- 2007年4月 - 2014年2月: 東京大学大学院 新領域創成科学研究科 情報生命科学専攻 [森下研究室](http://mlab.cb.k.u-tokyo.ac.jp/) 助教
+- 2014年3月 - 現在: ソフトウェアエンジニア, [Treasure Data](http://www.treasuredata.com/)
 
 ## 論文など
 

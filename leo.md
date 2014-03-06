@@ -4,15 +4,9 @@ title: Taro L. Saito, Ph.D.
 ---
 ![leo]({{SITE_URL}}/image/leo.png) ![email]({{SITE_URL}}/image/leo-email.png) English/[Japanese](/leoj)
 
-**Database Researcher** 
-
-Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (Bioinformatics), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
-
-
-* Address: 5-1-5 Kashiwanoha, Kashiwa City Chiba Pref. 277-8562, JAPAN
-* Phone: +81-471-36-3985
-
 ### Profile
+
+Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 
 * Twitter [@taroleo](https://twitter.com/taroleo)
 
@@ -33,8 +27,6 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 ### Blogs
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
 * Xerial Blog: <http://voice.xerial.org>
-
-
  
 ### Curriculum Vitae (CV) 
 
@@ -42,8 +34,8 @@ Assistant Professor at [Morishita Laboratory](http://www.gi.k.u-tokyo.ac.jp/) (B
 * **March 2004** : Master of Information Science and Technology (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)
 * **April 2005 - March 2007** : Research fellow of the Japan Society for the Promotion of Science (JSPS)
 * **March 2007** : Ph.D. (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)   
-* **April 2007 - (current)** : Assistant Professor (Department of Computational Biology, Graduate School of Frontier Sciences, University of Tokyo, Japan)
-
+* **April 2007 - February 2014** : Assistant Professor at [Morishita Laboratory](http://mlab.cb.k.u-tokyo.ac.jp), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
+* **March 2014 - (current)** : Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 
 ### Research Interests 
 
