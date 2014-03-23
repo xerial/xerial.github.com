@@ -5,5 +5,6 @@ title: Top Page
 
 ### Recent Updates
 
-{% include recent_posts.html %}
+- 2014-03-23 Updated blog site: <http://xerial.org/blog>
+
 
