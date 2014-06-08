@@ -7,6 +7,9 @@ title: Publications
 
 ### Refereed Conference/Journal Papers
 
+- Ryohei Nakamura, Tatsuya Tsukahara, Wei Qu, Kazuki Ichikawa, Takayoshi Otsuka, Katsumi Ogoshi, [Taro L. Saito](/leo), Kouji Matsushima, Sumio Sugano, Shinichi Hashimoto, Yutaka Suzuki, Shinichi Morishita, and Hiroyuki Takeda. **Large hypomethylated domain serves as strong repressive machinery for key developmental genes in vertebrate.** 
+*Development* (In press)
+
 - [Taro L. Saito](/leo), Shin-ichi Hashimoto, Sam Guoping Gu, J. Jason Morton, Michael Stadler, Thomas Blumenthal, Andrew Fire(\*), and Shinichi Morishita(\*). **The Transcription Start Site Landscape of C. elegans**. [*Genome Research 2013 Aug;23(8):1348-61*](http://genome.cshlp.org/content/23/8/1348.long). \*: joint corresponding authors 
 
   - WormTSS web site: <http://wormtss.utgenome.org/>
@@ -70,6 +73,8 @@ title: Publications
 * **Transaction Management for XML**. [Taro L. Saito](/leo). Senior thesis submitted to Department of Information Science, Faculty of Science, University of Tokyo, February 2002. ([PDF](/pub/paper/2002/senior_thesis.pdf)), ([MS PowerPoint file](/pub/paper/2002/presentation.ppt)).
 
 ### Invited Talks
+
+* Spark Internals. Hadoop Source Code Reading #16 in Japan. *May 2014*. [Presentation slides](http://www.slideshare.net/taroleo/spark-internal-hadoop-source-code-reading-16-in-japan)
 
 * Parallel and Distributed Processing with Silk - Application to Genome Sciences -. [Taro L. Saito](/leo). *ACM SIGMOD-J, October 2013*. [Presentation slides](http://www.slideshare.net/taroleo/silk-28695003) (in Japanese).
 

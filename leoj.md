@@ -16,12 +16,6 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 * Leo's Chronicle (日本語): <http://leoclock.blogspot.com>
 * Xerial Blog: <http://voice.xerial.org>
 
-
-## 住所・電話
-
-277-8562 千葉県柏市柏の葉 東京大学柏キャンパス 総合研究棟3階370号室  
-電話番号：047-136-4065
-
 ## 紹介記事
 
 2008年4月 NTTサイバー研の鬼塚さんとのインタビュー（電子情報通信学会 ニュースレター）記事。([PDF]({{BASE_PATH}}/pub/paper/2008/letter1.pdf))
@@ -39,9 +33,15 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 - 2007年4月 - 2014年2月: 東京大学大学院 新領域創成科学研究科 情報生命科学専攻 [森下研究室](http://mlab.cb.k.u-tokyo.ac.jp/) 助教
 - 2014年3月 - 現在: ソフトウェアエンジニア, [Treasure Data](http://www.treasuredata.com/)
 
-## 論文など
+## 論文
 
-* [こちら](/publication)を見てください
+* [論文リスト](/publication)を参照してください
+
+## 授賞
+* 2014年3月 [上林奨励賞](http://dbsj.org/overview/award/)
+  * データベース，メディアコンテンツ，情報マネージメント，ソーシャルコンピューティングに関する研究や技術に対して国際的に優れた貢献を行った若手研究者に対して贈られる賞
+  * [「アカデミアからビジネスのデータベースの世界へ」](http://dbsj.org/dbjapan/2014/msg00094.html) 授賞記念による寄稿 
+
 
 ## 研究内容
 

@@ -20,6 +20,7 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 * see [Pulblications]({{SITE_URL}}/publication)
 * [My DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
 
+
 ### Articles
 * [Scala Cookbook](http://xerial.org/scala-cookbook) <http://xerial.org/scala-cookbook> (in Japanese)
   * Tutorial of the Scala programming language
