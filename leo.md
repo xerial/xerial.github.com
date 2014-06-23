@@ -24,6 +24,7 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 ### Articles
 * [Scala Cookbook](http://xerial.org/scala-cookbook) <http://xerial.org/scala-cookbook> (in Japanese)
   * Tutorial of the Scala programming language
+* [Presentation Slides @ SlideShare](http://www.slideshare.net/taroleo/)
 
 ### Blogs
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
