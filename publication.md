@@ -7,8 +7,10 @@ title: Publications
 
 ### Refereed Conference/Journal Papers
 
+- Toshiya Nishimura, Amaury Herpin, Tetsuaki Kimura, Ikuyo Hara, Toshihiro Kawasaki, Shuhei Nakamura, Yasuhiro Yamamoto, [Taro L. Saito](/leo), Jun Yoshimura, Shinichi Morishita, Tatsuya Tsukahara, Satoru Kobayashi, Kiyoshi Naruse, Shuji Shigenobu, Noriyoshi Sakai, Manfred Schartl, and Minoru Tanaka. **Analysis of a novel gene, Sdgc, reveals sex chromosome-dependent differences of medaka germ cells prior to gonad formation**. *Development 2014 141:3363-3369*; July 30, 2014, [doi:10.1242/dev.106864](http://dev.biologists.org/content/early/2014/07/30/dev.106864.abstract).
+
 - Ryohei Nakamura, Tatsuya Tsukahara, Wei Qu, Kazuki Ichikawa, Takayoshi Otsuka, Katsumi Ogoshi, [Taro L. Saito](/leo), Kouji Matsushima, Sumio Sugano, Shinichi Hashimoto, Yutaka Suzuki, Shinichi Morishita, and Hiroyuki Takeda. **Large hypomethylated domain serves as strong repressive machinery for key developmental genes in vertebrate.** 
-*Development* (In press)
+*Development 2014*, [doi:10.1242/dev.108548](http://dev.biologists.org/content/early/2014/06/12/dev.108548.abstract).
 
 - [Taro L. Saito](/leo), Shin-ichi Hashimoto, Sam Guoping Gu, J. Jason Morton, Michael Stadler, Thomas Blumenthal, Andrew Fire(\*), and Shinichi Morishita(\*). **The Transcription Start Site Landscape of C. elegans**. [*Genome Research 2013 Aug;23(8):1348-61*](http://genome.cshlp.org/content/23/8/1348.long). \*: joint corresponding authors 
 
