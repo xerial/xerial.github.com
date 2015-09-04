@@ -4,9 +4,9 @@ title: Software
 category : software
 ---
 
-## Data Management Utilities
+## Data Processing
 
-### [sqlite-jdbc](https://bitbucket.org/xerial/sqlite-jdbc)
+### [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
 JDBC driver for using [SQLite](http://sqlite.org) databases in Java. SQLite is a ready-to-use relational-database engine that stores data into a single file (or multiple files).
 
 ### [snappy-java](https://github.com/xerial/snappy-java)
@@ -15,10 +15,8 @@ Fast compressor and decompressor for Java.
 ### [LArray](https://github.com/xerial/larray) 
 Large off-heap arrays and mmap for Java and Scala.
 
-## Cluster Computing
-
 ### [Silk](http://xerial.org/silk)
-A cluster computing platform for streaming distributed data processing pipelines.
+Framework for managing data processing workflows for SQL and unix commands
 
 * GitHub: <https://github.com/xerial/silk>
 
@@ -30,4 +28,5 @@ A sbt plugin for publishing Scala and Java project to the Maven central reposito
 ### [sbt-pack](https://github.com/xerial/sbt-pack)
 A sbt plugin for creating distirbutable Scala packages.
 
-
+### [sbt-jcheckstyle](https://github.com/xerial/sbt-jcheckstyle)
+A sbt plugin for checking Java code style
