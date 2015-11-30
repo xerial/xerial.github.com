@@ -39,6 +39,7 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 * **April 2007 - February 2014** : Assistant Professor at [Morishita Laboratory](http://mlab.cb.k.u-tokyo.ac.jp), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 * **March 2014 - June 2015** : Software Engineer at [Treasure Data, Inc. (Japan)](https://www.treasuredata.com/)
 * **July 2015 - (current)**: Software Engineer at [Treasure Data, Inc. (US Headquarters)](https://www.treasuredata.com/)
+
 ### Research Interests 
 
 #### Database Management Systems 
