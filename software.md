@@ -4,6 +4,17 @@ title: Software
 category : software
 ---
 
+## Programming Support
+
+### [airframe](http://wvlet.org/airframe)
+Dependency injection library for Scala
+
+### [wvlet-log](https://github.com/wvlet/log)
+Simple and fancy logging library for Scala.
+
+### [config](https://github.com/wvlet/config)
+Application configuration framework
+
 ## Data Processing
 
 ### [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
