@@ -42,6 +42,8 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 
 ### Research Interests 
 
+Organizing [Database Journal Club](https://plus.google.com/u/2/communities/109432920533282111188).
+
 #### Database Management Systems 
 * Cluster computing platform for Genome Sciences
   * [Silk](http://xerial.org/silk)
