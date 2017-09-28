@@ -7,7 +7,8 @@ category : software
 ## Programming Support
 
 ### [airframe](http://wvlet.org/airframe)
-Dependency injection library for Scala
+- Dependency injection library for Scala
+- And also a collection of libraries for building full-fledged applications in Scala
 
 ### [wvlet-log](https://github.com/wvlet/log)
 Simple and fancy logging library for Scala.
