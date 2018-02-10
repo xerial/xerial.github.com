@@ -7,6 +7,12 @@ title: 斉藤 太郎 (Taro L. Saito, PhD)
 ソフトウェアエンジニア, [Treasure Data](http://www.treasuredata.com/)
 
 * Twitter <https://twitter.com/taroleo>
+* 書き物 [Medium](https://medium.com/@taroleo)
+
+データベースジャーナルクラブを管理しています:
+- [Database Journal at Medium](https://medium.com/db-journal)
+- [Google+](https://plus.google.com/u/2/communities/109432920533282111188)
+- [Twitter @db_journal](https://twitter.com/db_journal)
 
 ### プログラミング関連
 * GitHub <https://github.com/xerial>
