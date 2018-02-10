@@ -9,9 +9,15 @@ title: Taro L. Saito, Ph.D.
 Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 
 * Twitter [@taroleo](https://twitter.com/taroleo)
+* Aritcles at [Medium](https://medium.com/@taroleo)
+
+Organizing Database Journal Club:
+- [Database Journal at Medium](https://medium.com/db-journal)
+- [Google+](https://plus.google.com/u/2/communities/109432920533282111188)
+- [Twitter @db_journal](https://twitter.com/db_journal)
 
 ### Programming 
-* Language Skills: Scala (current favorite), Java, C/C++, Ruby, Perl, R, Scheme, OCaml, Z80, etc.
+* Language Skills: Scala (current favorite), Java, C/C++, Ruby, Python, Perl, R, Scheme, OCaml, Z80, etc.
 * [Software]({{BASE_PATH}}/software)
 * GitHub <https://github.com/xerial>
 * BitBucket <https://bitbucket.org/xerial>
@@ -27,6 +33,7 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 * [Presentation Slides @ SlideShare](http://www.slideshare.net/taroleo/)
 
 ### Blogs
+
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
 * Xerial Blog: <http://voice.xerial.org>
  
@@ -41,8 +48,6 @@ Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
 * **July 2015 - (current)**: Software Engineer at [Treasure Data, Inc. (US Headquarters)](https://www.treasuredata.com/)
 
 ### Research Interests 
-
-Organizing [Database Journal Club](https://plus.google.com/u/2/communities/109432920533282111188).
 
 #### Database Management Systems 
 * Cluster computing platform for Genome Sciences
