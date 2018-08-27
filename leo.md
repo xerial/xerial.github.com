@@ -6,8 +6,10 @@ title: Taro L. Saito, Ph.D.
 
 ### Profile
 
-Software Engineer at [Treasure Data, Inc.](http://www.treasuredata.com/)
+Ph.D., Software Engineer at [Arm - Treasure Data.](http://www.treasuredata.com/)
 
+* [Linked-in](https://www.linkedin.com/in/taro-l-saito-b0709387/)
+* [GitHub @xerial](https://github.com/xerial)
 * Twitter [@taroleo](https://twitter.com/taroleo)
 * Aritcles at [Medium](https://medium.com/@taroleo)
 
@@ -19,8 +21,6 @@ Organizing Database Journal Club:
 ### Programming 
 * Language Skills: Scala (current favorite), Java, C/C++, Ruby, Python, Perl, R, Scheme, OCaml, Z80, etc.
 * [Software]({{BASE_PATH}}/software)
-* GitHub <https://github.com/xerial>
-* BitBucket <https://bitbucket.org/xerial>
 
 ### Publications 
 * see [Pulblications]({{SITE_URL}}/publication)
@@ -45,7 +45,8 @@ Organizing Database Journal Club:
 * **March 2007** : Ph.D. (Department of Computer Science, Graduate School of Information Science and Technology, University of Tokyo, Japan)   
 * **April 2007 - February 2014** : Assistant Professor at [Morishita Laboratory](http://mlab.cb.k.u-tokyo.ac.jp), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 * **March 2014 - June 2015** : Software Engineer at [Treasure Data, Inc. (Japan)](https://www.treasuredata.com/)
-* **July 2015 - (current)**: Software Engineer at [Treasure Data, Inc. (US Headquarters)](https://www.treasuredata.com/)
+* **July 2015 - July 2018**: Software Engineer at [Treasure Data, Inc. (US Headquarters)](https://www.treasuredata.com/)
+* **July 2018 - (current)**: Principal Software Engineer at [Arm - Treasure Data](https://www.treasuredata.com/)
 
 ### Research Interests 
 
