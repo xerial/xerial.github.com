@@ -6,7 +6,7 @@ title: Taro L. Saito, Ph.D.
 
 ### Profile
 
-Ph.D., Software Engineer at [Arm - Treasure Data.](http://www.treasuredata.com/)
+Ph.D., Software Engineer at [Treasure Data.](http://www.treasuredata.com/)
 
 * [Linked-in](https://www.linkedin.com/in/taro-l-saito-b0709387/)
 * [GitHub @xerial](https://github.com/xerial)
@@ -46,7 +46,7 @@ Organizing Database Journal Club:
 * **April 2007 - February 2014** : Assistant Professor at [Morishita Laboratory](http://mlab.cb.k.u-tokyo.ac.jp), [Department of Computational Biology, Graduate School of Frontier Sciences](http://www.cb.k.u-tokyo.ac.jp/?lang=en), [University of Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 * **March 2014 - June 2015** : Software Engineer at [Treasure Data, Inc. (Japan)](https://www.treasuredata.com/)
 * **July 2015 - July 2018**: Software Engineer at [Treasure Data, Inc. (US Headquarters)](https://www.treasuredata.com/)
-* **July 2018 - (current)**: Principal Software Engineer at [Arm - Treasure Data](https://www.treasuredata.com/)
+* **July 2018 - (current)**: Principal Software Engineer at [Treasure Data](https://www.treasuredata.com/)
 
 ### Research Interests 
 
