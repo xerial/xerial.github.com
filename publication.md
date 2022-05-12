@@ -7,6 +7,14 @@ title: Publications
 
 ### Refereed Conference/Journal Papers
 
+- Taro L. Saito, Naoki Takezoe, Yukihiro Okada, Takako Shimamoto, Dongmin
+Yu, Suprith Chandrashekharachar, Kai Sasaki, Shohei Okumiya, Yan Wang,
+Takashi Kurihara, Ryu Kobayashi, Keisuke Suzuki, Zhenghong Yang, Makoto
+Onizuka. 2022. **Journey of Migrating Millions of Queries on The Cloud.**
+In 9th International Workshop of Testing Database Systems (DBTest ’22),
+June 17, 2022, Philadelphia, PA, USA. ACM, New York, NY, USA, 7 pages.
+[doi:10.1145/3531348.3532177](https://doi.org/10.1145/3531348.3532177)
+
 - Toshiya Nishimura, Amaury Herpin, Tetsuaki Kimura, Ikuyo Hara, Toshihiro Kawasaki, Shuhei Nakamura, Yasuhiro Yamamoto, [Taro L. Saito](/leo), Jun Yoshimura, Shinichi Morishita, Tatsuya Tsukahara, Satoru Kobayashi, Kiyoshi Naruse, Shuji Shigenobu, Noriyoshi Sakai, Manfred Schartl, and Minoru Tanaka. **Analysis of a novel gene, Sdgc, reveals sex chromosome-dependent differences of medaka germ cells prior to gonad formation**. *Development 2014 141:3363-3369*; July 30, 2014, [doi:10.1242/dev.106864](http://dev.biologists.org/content/early/2014/07/30/dev.106864.abstract).
 
 - Ryohei Nakamura, Tatsuya Tsukahara, Wei Qu, Kazuki Ichikawa, Takayoshi Otsuka, Katsumi Ogoshi, [Taro L. Saito](/leo), Kouji Matsushima, Sumio Sugano, Shinichi Hashimoto, Yutaka Suzuki, Shinichi Morishita, and Hiroyuki Takeda. **Large hypomethylated domain serves as strong repressive machinery for key developmental genes in vertebrate.** 
