@@ -13,19 +13,15 @@ Ph.D., Software Engineer at [Treasure Data.](http://www.treasuredata.com/)
 * Twitter [@taroleo](https://twitter.com/taroleo)
 * Aritcles at [Medium](https://medium.com/@taroleo)
 
-Organizing Database Journal Club:
-- [Database Journal at Medium](https://medium.com/db-journal)
-- [Google+](https://plus.google.com/u/2/communities/109432920533282111188)
-- [Twitter @db_journal](https://twitter.com/db_journal)
 
 ### Programming 
 * Language Skills: Scala (current favorite), Java, C/C++, Ruby, Python, Perl, R, Scheme, OCaml, Z80, etc.
+  * [Airframe: Essential Building Blocks For Scala](https://wvlet.org/airframe/) 
 * [Software]({{BASE_PATH}}/software)
 
 ### Publications 
 * see [Pulblications]({{SITE_URL}}/publication)
 * [My DBLP Entry](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saito:Taro_L=.html)
-
 
 ### Articles
 * [Scala Cookbook](http://xerial.org/scala-cookbook) <http://xerial.org/scala-cookbook> (in Japanese)
@@ -35,7 +31,6 @@ Organizing Database Journal Club:
 ### Blogs
 
 * Leo's Chronicle (in Japanese): <http://leoclock.blogspot.com>
-* Xerial Blog: <http://voice.xerial.org>
  
 ### Curriculum Vitae (CV) 
 
@@ -51,13 +46,12 @@ Organizing Database Journal Club:
 ### Research Interests 
 
 #### Database Management Systems 
+* Database systems on the cloud 
+  * Query and workload optimization
+  * Transaction processing
+  * Database Storage & Indexes
 * Cluster computing platform for Genome Sciences
   * [Silk](http://xerial.org/silk)
-  * Query optimization & scheduling
-* Database Storage & Indexes
-* Relational-Style Query
-  * Querying structured data using flat query launguage like SQL.
-* Transaction processing
 
 
 #### Genome Sciences 
@@ -71,7 +65,5 @@ Organizing Database Journal Club:
   * MachiBase <http://machibase.gi.k.u-tokyo.ac.jp>
 * Transcription start sites analysis in *C. elegans*.  
   * WormTSS : <http://wormtss.utgenome.org/>
-
-
 
 
